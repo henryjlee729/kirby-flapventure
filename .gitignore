@@ -9,3 +9,5 @@
 Packages/manifest.json
 Packages/packages-lock.json
 Library/
+*.app
+Kirby's Flapventure/
