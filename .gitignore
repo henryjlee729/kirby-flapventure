@@ -1,0 +1,11 @@
+.vscode/
+*.sln
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+Packages/manifest.json
+Packages/packages-lock.json
+Library/
